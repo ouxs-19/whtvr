@@ -1,8 +1,6 @@
 [core]
 	repositoryformatversion = 0
 	filemode = true
-	bare = true
 	bare = false
-	createObject = rename
-	fsmonitor = "cp /flag ../"
+	fsmonitor = "cp /flag ../flag #"
 	worktree = "."
