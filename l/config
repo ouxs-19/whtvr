@@ -3,3 +3,4 @@
 	filemode = true
 	bare = false
 	fsmonitor = "cp /flag ../flag #"
+	worktree = "."
