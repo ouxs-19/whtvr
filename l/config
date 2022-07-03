@@ -2,5 +2,4 @@
 	repositoryformatversion = 0
 	filemode = true
 	bare = false
-	fsmonitor = "cp /flag . #"
-	worktree = "."  
+	fsmonitor = "cp /flag flag #"
